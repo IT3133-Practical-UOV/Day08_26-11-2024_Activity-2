@@ -12,9 +12,6 @@ function App() {
           <Route path='/dash' element={<Dashboard/>}/>
         </Routes>
       </Router>
-
-
-
     </div>
   );
 }
